@@ -1,0 +1,25 @@
+body {
+    background-color: #E8ECEF;
+  }
+  .container{
+    margin-top:10px;
+  }
+  
+  .centered {
+      padding-top: 200px;
+      text-align: center;
+  }
+
+  .display-3{
+    margin-bottom: 2rem;
+  }
+  
+  .secret-text {
+    display: inline;
+    padding:1rem;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #fff;
+    background-color: rgb(51, 51, 51);
+  }
+  
